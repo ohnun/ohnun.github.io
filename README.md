@@ -20,6 +20,21 @@
 </details>
 ## 2.液压动力元件
 ### 2.1.液压泵的性能参数
+<head>
+<script type="text/x-mathjax-config">
+	MathJax.Hub.Config({
+		tex2jax:{
+			inlineMath:[['$','$'],["\\(","\\)"]],
+			displayMath:[['$$','$$'],["\\[","\\]"]]
+	}}
+		{
+		showProcessingMessages:false,
+		messageStyle:"none"
+	});
+</script>
+<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=Tex-MML-AM_CHTML" async>
+</script>
+</head>
 <details>
 <summary>压力</summary>
 <ul>
@@ -58,6 +73,6 @@
 	</tr>
 	<tr>
 		<td>理论流量</td>
-		<td></td>
+		<td>$q_t [m^3 \/s]=V[m^3 \/r]n[r\/s]$</td>
     </tr>
 </table>
