@@ -61,7 +61,7 @@
 		<tr><td>径向柱塞泵</td>
 			<td><math>
 				<mi>V</mi><mo>=</mo>
-				<mfrac> <mi>&pi;</mi> <mn>4</mn> </mfrac><msup><mi>d</mi><mn>2</mn></msup>
+				<mi>&pi;</mi><mo>/</mo><mn>4</mn><msup><mi>d</mi><mn>2</mn></msup>
 				</math></td></tr>
 	</table>
 	<li>理论流量: 在不考虑泄漏的情况下, 单位时间内所输出的液体的体积;</li>
