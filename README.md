@@ -90,6 +90,8 @@
 		<tr><td>机械效率</td><td><math>
 			<msub><mi>&eta;</mi><mi>pm</mi></msub><mo>=</mo><msub><mi>T</mi><mi>t</mi></msub><mo>/</mo><msub><mi>T</mi><mi>i</mi></msub>
 			</math></td></tr>
-		<tr><td>总效率</td><td></td></tr>
+		<tr><td>总效率</td><td><math>
+			<msub><mi>&eta;</mi><mi>p</mi></msub><mo>=</mo><msub><mi>P</mi><mi>o</mi></msub><mo>/</mo><msub><mi>P</mi><mi>i</mi></msub><mo>=</mo><msub><mi>&eta;</mi><mi>pv</mi></msub><msub><mi>&eta;</mi><mi>pm</mi></msub>
+			</math></td></tr>
 	</table>
 </body>
