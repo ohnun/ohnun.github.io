@@ -47,10 +47,7 @@
 				<mi>&pi;</mi>
 				<mo>(</mo><msup><mi>R</mi><mn>2</mn></msup><mo>-</mo><msup><mi>r</mi><mn>2</mn></msup><mo>)</mo>
 				<mo>-</mo>
-					<mo>(</mo><mi>R</mi><mo>-</mo><mi>r</mi><mo>)</mo>
-					<mo>/</mo>
-					<mi>cos</mi><mi>&theta;</mi>
-				 <mi>b</mi><mi>Z</mi>
+				<mo>(</mo><mi>R</mi><mo>-</mo><mi>r</mi><mo>)</mo><mo>/</mo><mi>cos</mi><mi>&theta;</mi> <mi>b</mi><mi>Z</mi>
 				<mo>]</mo>
 				</math></td></tr>
 		<tr><td>单作用叶片泵</td>
