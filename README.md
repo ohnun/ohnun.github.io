@@ -36,16 +36,14 @@
 <summary>排量与流量</summary>
 <ul>
 	<li>排量: 液压泵的轴转动一转时, 封闭工作容腔的容积变化量;</li>
+	<table>
+		<tr><td>泵的类型</td><td>排量</td></tr>
+		<tr><td>齿轮泵</td><td><math><mi>V</mi><mo>=</mo><mn>6.66</mn><mi>z</mi><msup><mi>m</mi><mn>2</mn></msup><mi>B</mi></math></td></tr>
+		<tr><td>双作用叶片泵</td><td><math><mi>V</mi><mo>=</mo>2B[\pi(R^2-r^2)-(R-r)/cos\theta bZ]</math></td></tr>
+	</table>
 	<li>理论流量: 在不考虑泄漏的情况下, 单位时间内所输出的液体的体积;</li>
 	<li>实际流量: 泵工作时的输出流量, 需考虑泄漏量Δq;</li>
 	<li>额定流量: 泵在额定转速和额定压力下输出的流量.</li>
-	<table>
-		<tr><td>泵的类型</td><td>排量</td></tr>
-		<tr><td>齿轮泵</td>
-			<td>
-				<math><mi>V</mi><mo>=</mo><mn>6.66</mn><mi>z</mi><msup><mi>m</mi><mn>2</mn></msup><mi>B</mi></math>
-			</td></tr>
-	</table>
 </ul>
 </details>
 <details>
