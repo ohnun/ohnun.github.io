@@ -72,7 +72,13 @@
 	液压泵由原动机驱动, 因此其输入功率为机械功率, 输出功率为液压功率, 而总效率则是输出功率与输入功率的比值. 液压泵的功率损失由容积损失和机械损失两部分构成.
 	</p>
 	<table>
-		<tr><td>理论转矩</td><td></td></tr>
+		<tr><td>理论转矩</td><td>
+			<math>
+				<msub><mi>T</mi><mi>i</mi></msub><mo>=</mo>
+				<mi>&Delta;p</mi><mi>V</mi>
+				<mo>/</mo>
+				<mn>2</mn><mi>&pi;</mi>
+				<\math></td></tr>
 		<tr><td>实际转矩</td><td></td></tr>
 		<tr><td>输入功率</td><td></td></tr>
 		<tr><td>输出功率</td><td></td></tr>
