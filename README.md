@@ -45,7 +45,7 @@
 			<mi>&pi;</mi>
 			<mo>(</mo><msup><mi>R</mi><mn>2</mn></msup><mo>-</mo><msup><mi>r</mi><mn>2</mn></msup>)
 			<mo>-</mo>
-			(R-r)/cos\theta
+			<mo>(</mo><mi>R</mi><mo>-</mo><mi>r</mi><mo>)</mo><mo>/</mo><mi>cos</mi><mi>&theta;</mi>
 			b
 			Z
 			]
