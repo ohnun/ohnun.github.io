@@ -50,7 +50,7 @@
 					<mo>(</mo><mi>R</mi><mo>-</mo><mi>r</mi><mo>)</mo>
 					<mo>/</mo>
 					<mi>cos</mi><mi>&theta;</mi>
-				<mi>b</mi><mi>Z</mi>
+				 <mi>b</mi><mi>Z</mi>
 				<mo>]</mo>
 				</math></td></tr>
 		<tr><td>单作用叶片泵</td>
@@ -61,7 +61,7 @@
 		<tr><td>径向柱塞泵</td>
 			<td><math>
 				<mi>V</mi><mo>=</mo>
-				<mi>&pi;</mi><mo>/</mo><mn>4</mn><msup><mi>d</mi><mn>2</mn></msup>
+				<mi>&pi;</mi><mo>/</mo><mn>4</mn> <msup><mi>d</mi><mn>2</mn></msup>
 				<mo>&sdot;</mo>
 				<mn>2</mn><mi>e</mi><mi>Z</mi>
 				</math></td></tr>
