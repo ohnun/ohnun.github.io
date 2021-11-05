@@ -49,7 +49,8 @@
 				<mo>-</mo>
 				<mfrac>
 					<mrow><mi>R</mi><mo>-</mo><mi>r</mi></mrow>
-					<mi>cos</mi><mi>&theta;</mi></mfrac>
+					<mi>cos</mi><mi>&theta;</mi>
+				</mfrac>
 				<mi>b</mi><mi>Z</mi>
 				<mo>]</mo>
 				</math></td></tr>
