@@ -70,7 +70,7 @@
 				<mi>D</mi><mi>tan</mi><mi>&gamma;</mi><mi>Z</mi>
 				</math></td></tr>
 	</table>
-	<li>理论流量: 在不考虑泄漏的情况下, 单位时间内所输出的液体的体积;</li>
+	<li>理论流量: 在不考虑泄漏的情况下, 单位时间内所输出的液体的体积,<math><msub><mi>q</mi><mi>y</mi></msub>=<mi>V</mi><mi>n</mi></math>;</li>
 	<li>实际流量: 泵工作时的输出流量, 需考虑泄漏量Δq;</li>
 	<li>额定流量: 泵在额定转速和额定压力下输出的流量.</li>
 </ul>
