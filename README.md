@@ -42,7 +42,7 @@
 		<tr><td>双作用叶片泵</td><td><math><mi>V</mi><mo>=</mo>
 			<mn>2</mn><mi>B</mi>
 			<mo>[</mo>
-			<mi>\pi</mi>
+			<mi>&pi</mi>
 			<mo>(</mo><msup><mi>R</mi><mn>2</mn></msup><mo>-</mo><msup><mi>r</mi><mn>2</mn></msup>)
 			<mo>-</mo>
 			(R-r)/cos\theta
