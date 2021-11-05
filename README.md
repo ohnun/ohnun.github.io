@@ -78,7 +78,7 @@
 				<mi>&Delta;p</mi><mi>V</mi>
 				<mo>/</mo>
 				<mn>2</mn><mi>&pi;</mi>
-				<\math></td></tr>
+				</math></td></tr>
 		<tr><td>实际转矩</td><td></td></tr>
 		<tr><td>输入功率</td><td></td></tr>
 		<tr><td>输出功率</td><td></td></tr>
