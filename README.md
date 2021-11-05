@@ -1,6 +1,6 @@
 # 液压与气压传动笔记
 ## 1.液压传动的基本原理及组成
-<summary>基本原理</summary>
+<h4>基本原理</h4>
 	<button type="button" onclick="alert('施加于密封容器内平衡液体中的某一点的压力等值地传递到全部液体的各点.')">帕斯卡原理
 	</button>
 	<button type="button" onclick="alert('由于理想流体的不可压缩性, 而且流体不会穿过流管的壁, 即质量在运动过程中守恒.')">液体连续性原理
