@@ -82,12 +82,14 @@
 			<msub><mi>P</mi><mi>i</mi></msub><mo>=</mo><mi>&omega;</mi><msub><mi>T</mi><mi>i</mi></msub><mo>=</mo><mn>2</mn><mi>&pi;n</mi><msub><mi>T</mi><mi>i</mi></msub>
 			</math></td></tr>
 		<tr><td>输出功率</td><td><math>
-			<msub><mi>P</mi><mi>o</mi></msub><mo>=</mo><mo>&Delta;</mo><mi>pq</mi>
+			<msub><mi>P</mi><mi>o</mi></msub><mo>=</mo><mo>&Delta;</mo><mi>p</mi><mi>q</mi>
 			</math></td></tr>
 		<tr><td>容积效率</td><td><math>
 			<msub><mi>&eta;</mi><mi>pv</mi></msub><mo>=</mo><mi>q</mi><mo>/</mo><msub><mi>q</mi><mi>t</mi></msub>
 			</math></td></tr>
-		<tr><td>机械效率</td><td></td></tr>
+		<tr><td>机械效率</td><td><math>
+			<msub><mi>&eta;</mi><mi>pm</mi></msub><mo>=</mo>
+			</math></td></tr>
 		<tr><td>总效率</td><td></td></tr>
 	</table>
 </body>
