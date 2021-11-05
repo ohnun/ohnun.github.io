@@ -48,7 +48,7 @@
 				<mo>(</mo><msup><mi>R</mi><mn>2</mn></msup><mo>-</mo><msup><mi>r</mi><mn>2</mn></msup><mo>)</mo>
 				<mo>-</mo>
 				<mfrac>
-					<mi>R</mi><mo>-</mo><mi>r</mi></mfrac>
+					<mi>R</mi><mo>-</mo><mi>r</mi>
 					<mi>cos</mi><mi>&theta;</mi>
 				</mfrac>
 				<mi>b</mi><mi>Z</mi>
