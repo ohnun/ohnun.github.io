@@ -62,6 +62,13 @@
 				<mo>&sdot;</mo>
 				<mn>2</mn><mi>e</mi><mi>Z</mi>
 				</math></td></tr>
+		<tr><td>轴向柱塞泵</td>
+			<td><math>
+				<mi>V</mi><mo>=</mo>
+				<mi>&pi;</mi><mo>/</mo><mn>4</mn> <msup><mi>d</mi><mn>2</mn></msup>
+				<mo>&sdot;</mo>
+				<mi>D</mi><mi>tan</mi><mi>&gamma;</mi><mi>Z</mi>
+				</math></td></tr>
 	</table>
 	<li>理论流量: 在不考虑泄漏的情况下, 单位时间内所输出的液体的体积;</li>
 	<li>实际流量: 泵工作时的输出流量, 需考虑泄漏量Δq;</li>
