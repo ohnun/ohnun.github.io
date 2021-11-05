@@ -94,4 +94,11 @@
 			<msub><mi>&eta;</mi><mi>p</mi></msub><mo>=</mo><msub><mi>P</mi><mi>o</mi></msub><mo>/</mo><msub><mi>P</mi><mi>i</mi></msub><mo>=</mo><msub><mi>&eta;</mi><mi>pv</mi></msub><msub><mi>&eta;</mi><mi>pm</mi></msub>
 			</math></td></tr>
 	</table>
+	<h3>2.2.容积式液压泵存在的问题</h3>
+		<button type="button" onclick="alert('为了保证液压泵正常工作, 泵的吸、压油腔必须可靠地隔开，而泵的密闭工作容积在吸油终了向压油腔转移过程中, 当密闭工作容积既不与吸油腔相通, 又不与压油腔相通时, 就形成了封油的容积; 若此封油容积的大小发生变化时, 封闭在容积内的液压油受到了挤压或扩张, 在封油容积内就产生局部的高压或气穴, 于是就产生了困油现象.')">困油现象
+		</button>
+		<button type="button" onclick="alert('液压泵内相对运动件大部分是采取间隙密封的密封方式, 压油腔的高压油必然经过此间隙流向吸油腔或其它低压处, 从而形成了内泄漏.')">内部泄漏
+		</button>
+		<button type="button" onclick="alert('指泵瞬时输出流量随时间而变化. 流量脉动直接影响系统工作的平稳性, 引起压力脉动, 使系统产生振动和噪声.')">流量脉动
+		</button>
 </body>
