@@ -3,11 +3,11 @@
 <details>
 <summary>基本原理</summary>
 	<button type="button" onclick="alert('施加于密封容器内平衡液体中的某一点的压力等值地传递到全部液体的各点.')">帕斯卡原理
-	</button>
+	</button></br>
 	<button type="button" onclick="alert('由于理想流体的不可压缩性, 而且流体不会穿过流管的壁, 即质量在运动过程中守恒.')">液体连续性原理
-	</button>
+	</button></br>
 	<button type="button" onclick="alert('一般表述为: 能量既不会凭空产生, 也不会凭空消失, 它只会从一种形式转化为另一种形式,或者从一个物体转移到其它物体, 而能量的总量保持不变. 也可以表述为: 一个系统的总能量的改变只能等于传入或者传出该系统的能量的多少. 总能量为系统的机械能、热能及除热能以外的任何内能形式的总和.')">能量守恒定律
-	</button>
+	</button></br>
 </details>
 <details>
 <summary>液压系统的组成</summary>
