@@ -39,17 +39,7 @@
 	<table>
 		<tr><td>泵的类型</td><td>排量</td></tr>
 		<tr><td>齿轮泵</td><td><math><mi>V</mi><mo>=</mo><mn>6.66</mn><mi>z</mi><msup><mi>m</mi><mn>2</mn></msup><mi>B</mi></math></td></tr>
-		<tr><td>双作用叶片泵</td><td><math><mi>V</mi><mo>=</mo>
-			<mn>2</mn><mi>B</mi>
-			<mo>[</mo>
-			<mi>&pi;</mi>
-			<mo>(</mo><msup><mi>R</mi><mn>2</mn></msup><mo>-</mo><msup><mi>r</mi><mn>2</mn></msup>)
-			<mo>-</mo>
-			<mo>(</mo><mi>R</mi><mo>-</mo><mi>r</mi><mo>)</mo><mo>/</mo><mi>cos</mi><mi>&theta;</mi>
-			<mi>b</mi>
-			<mi>Z</mi>
-			<mo>]</mo>
-			</math></td></tr>
+		<tr><td>双作用叶片泵</td><td><math><mi>V</mi><mo>=</mo><mn>2</mn><mi>B</mi><mo>[</mo><mi>&pi;</mi><mo>(</mo><msup><mi>R</mi><mn>2</mn>		</msup><mo>-</mo><msup><mi>r</mi><mn>2</mn></msup>)<mo>-</mo><mo>(</mo><mi>R</mi><mo>-</mo><mi>r</mi><mo>)</mo><mo>/</mo><mi>cos</mi>			<mi>&theta;</mi><mi>b</mi><mi>Z</mi><mo>]</mo></math></td></tr>
 	</table>
 	<li>理论流量: 在不考虑泄漏的情况下, 单位时间内所输出的液体的体积;</li>
 	<li>实际流量: 泵工作时的输出流量, 需考虑泄漏量Δq;</li>
