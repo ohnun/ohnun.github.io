@@ -43,7 +43,7 @@
 		<tr><td>泵的类型</td><td>排量</td></tr>
 		<tr><td>齿轮泵</td>
 			<td>
-				<math><mi>V</mi><mo>=</mo><mn>6.66</mn><mi>z</mi><msub><mi>m</mi><mn>2</mn></msub><mi>B</mi></math>
+				<math><mi>V</mi><mo>=</mo><mn>6.66</mn><mi>z</mi><msup><mi>m</mi><mn>2</mn></msup><mi>B</mi></math>
 			</td></tr>
 	</table>
 </ul>
