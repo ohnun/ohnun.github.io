@@ -48,6 +48,8 @@
 				<mfrac><mrow><mi>R</mi><mo>-</mo><mi>r</mi></mrow>
 					<mi>cos</mi><mi>&theta;</mi></mfrac>
 				<mi>b</mi><mi>Z</mi><mo>]</mo></math></td></tr>
+		<tr><td>单作用叶片泵</td>
+			<td></td></tr>
 	</table>
 	<li>理论流量: 在不考虑泄漏的情况下, 单位时间内所输出的液体的体积;</li>
 	<li>实际流量: 泵工作时的输出流量, 需考虑泄漏量Δq;</li>
