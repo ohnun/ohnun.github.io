@@ -4,6 +4,8 @@
 <summary>基本原理</summary>
 <ul>
 	<li>Pascal原理: 施加于密封容器内平衡液体中的某一点的压力等值地传递到全部液体的各点;</li>
+	<button type="button" onclick="alert('施加于密封容器内平衡液体中的某一点的压力等值地传递到全部液体的各点')">帕斯卡原理
+	</button>
 	<li>液体连续性原理;</li>
 	<li>能量守恒定理.</li>
 </ul>
