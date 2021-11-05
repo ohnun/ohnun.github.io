@@ -55,7 +55,7 @@
 		<tr><td>单作用叶片泵</td>
 			<td><math>
 				<mi>V</mi><mo>=</mo>
-				<mn>2</mn><mi>&pi;</mi><mi>D</mi><mi>B</mi><mi>&e;</mi>
+				<mn>2</mn><mi>&pi;</mi><mi>D</mi><mi>B</mi><mi>e</mi>
 				</math></td></tr>
 	</table>
 	<li>理论流量: 在不考虑泄漏的情况下, 单位时间内所输出的液体的体积;</li>
