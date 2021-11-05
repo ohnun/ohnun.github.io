@@ -84,7 +84,9 @@
 		<tr><td>输出功率</td><td><math>
 			<msub><mi>P</mi><mi>o</mi></msub><mo>=</mo><mo>&Delta;</mo><mi>pq</mi>
 			</math></td></tr>
-		<tr><td>容积效率</td><td></td></tr>
+		<tr><td>容积效率</td><td><math>
+			<msub><mi>&eta;</mi><mi>pv</mi></msub><mo>=</mo><mi>q</mi><mo>/</mo><msub><mi>q</mi><mi>t</mi></msub>
+			</math></td></tr>
 		<tr><td>机械效率</td><td></td></tr>
 		<tr><td>总效率</td><td></td></tr>
 	</table>
