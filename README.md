@@ -46,9 +46,9 @@
 			<mo>(</mo><msup><mi>R</mi><mn>2</mn></msup><mo>-</mo><msup><mi>r</mi><mn>2</mn></msup>)
 			<mo>-</mo>
 			<mo>(</mo><mi>R</mi><mo>-</mo><mi>r</mi><mo>)</mo><mo>/</mo><mi>cos</mi><mi>&theta;</mi>
-			b
-			Z
-			]
+			<mi>b</mi>
+			<mi>Z</mi>
+			<mo>]</mo>
 			</math></td></tr>
 	</table>
 	<li>理论流量: 在不考虑泄漏的情况下, 单位时间内所输出的液体的体积;</li>
