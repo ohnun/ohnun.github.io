@@ -58,6 +58,11 @@
 				<mi>V</mi><mo>=</mo>
 				<mn>2</mn><mi>&pi;</mi><mi>D</mi><mi>B</mi><mi>e</mi>
 				</math></td></tr>
+		<tr><td>径向柱塞泵</td>
+			<td><math>
+				<mi>V</mi><mo>=</mo>
+				<mfrac><mi>&pi;</mi><mn>4</mn></mfrac><msup><mi>d</mi><mn>2</mn></msup>
+				</math></td></tr>
 	</table>
 	<li>理论流量: 在不考虑泄漏的情况下, 单位时间内所输出的液体的体积;</li>
 	<li>实际流量: 泵工作时的输出流量, 需考虑泄漏量Δq;</li>
